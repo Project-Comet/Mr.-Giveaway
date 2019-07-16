@@ -16,7 +16,6 @@ module.exports = class extends Command {
         +`> ${prefix}delete\n" + "Delete the previous giveaway\n`
         +`> ${prefix}draw\n" + "Force a draw\n`
         +`> ${prefix}redraw\n" + "Redraw a winner\n` 
-        +`> ${prefix}invite\n" + "Get an invite link for the bot\n`
         +`> ${prefix}server\n" + "Join the official Discord server\n`
         +`> ${prefix}ping\n" + "Check to see if the bot responds\`\`\``);
     }
